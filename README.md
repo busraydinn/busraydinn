@@ -1,6 +1,6 @@
 ## Hello, It's Busra. 👋
 
-I'm Computer Engineer. I'm doing my Master's degree in Electronics and Communication Engineering at Yildiz Technical University. I like to do research in the field of communication systems of LEO satellites.
+I'm Computer Engineer. I'm doing my Master's degree in Electronics and Communication Engineering at Yildiz Technical University. I like to do research in the field of communication systems of LEO satellites.I have gained experience in C# and the .NET ecosystem, particularly in developing desktop applications using WinForms and WPF. I have knowledge of Object-Oriented Programming (OOP) and Design Patterns.
 <br>
 <br> So that: 
 - 🔭 I am learning GMAT (General Mission Analysis Tool) :)
