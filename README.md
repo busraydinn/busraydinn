@@ -20,8 +20,6 @@ I'm Computer Engineer. I'm doing my Master's degree in Electronics and Communica
 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" style="width:50px;height:50px"><img/>
 
-## Embedeed Development
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="width:30px;height:30px"><img/>
 ### Social
 <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" style="width:30px;height:30px" href="https://github.com/busraydinn"><img/>
  
