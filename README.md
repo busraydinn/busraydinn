@@ -1,5 +1,5 @@
 ## Hello, It's Busra. 👋
-I am a Computer Engineer currently pursuing a Master's degree in Electrical and Communication Engineering at Yıldız Technical University. My primary research interests lie in communication systems, with a particular focus on Low Earth Orbit (LEO) satellite technologies. I have a strong passion for advanced technologies, including C++, React.js, and Object-Oriented Programming (OOP), and I enjoy working on projects within these domains.
+I am a Computer Engineer currently pursuing a Master's degree in Electronics and Communication Engineering at Yıldız Technical University. My primary research interests lie in communication systems, with a particular focus on Low Earth Orbit (LEO) satellite technologies. I have a strong passion for advanced technologies, including C++, React.js, and Object-Oriented Programming (OOP), and I enjoy working on projects within these domains.
 
 Currently, I am actively expanding my expertise in the following areas:
 
