@@ -1,4 +1,4 @@
-## Merhaba, Ben Busra. 👋
+## Merhaba, Ben Büşra. 👋
 
 Bilgisayar Mühendisiyim ve şu anda Yıldız Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği alanında yüksek lisans yapıyorum. Araştırma alanlarımın odağında iletişim sistemleri bulunuyor, özellikle Düşük Dünya Yörüngesi (LEO) uydu teknolojilerine ilgi duyuyorum. C++, React.js ve Nesne Yönelimli Programlama (OOP) gibi ileri teknolojilere tutkuluyum ve bu alanlarda projeler geliştirmekten keyif alıyorum.
 
