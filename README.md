@@ -1,26 +1,23 @@
-## Hello, It's Busra. 👋
-I am a Computer Engineer currently pursuing a Master's degree in Electronics and Communication Engineering at Yıldız Technical University. My primary research interests lie in communication systems, with a particular focus on Low Earth Orbit (LEO) satellite technologies. I have a strong passion for advanced technologies, including C++, React.js, and Object-Oriented Programming (OOP), and I enjoy working on projects within these domains.
+## Merhaba, Ben Busra. 👋
 
-Currently, I am actively expanding my expertise in the following areas:
+Bilgisayar Mühendisiyim ve şu anda Yıldız Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği alanında yüksek lisans yapıyorum. Araştırma alanlarımın odağında iletişim sistemleri bulunuyor, özellikle Düşük Dünya Yörüngesi (LEO) uydu teknolojilerine ilgi duyuyorum. C++, React.js ve Nesne Yönelimli Programlama (OOP) gibi ileri teknolojilere tutkuluyum ve bu alanlarda projeler geliştirmekten keyif alıyorum.
 
-🔭 Gaining proficiency in General Mission Analysis Tool (GMAT) for mission planning and analysis.
+Şu anda uzmanlığımı aktif olarak aşağıdaki alanlarda genişletiyorum:
 
-🔭 Deepening my knowledge of the MATLAB Aerospace Toolbox for aerospace system modeling and simulation.
+🔭 Görev planlama ve analiz için Genel Görev Analiz Aracı (GMAT) konusunda yetkinlik kazanıyorum.
 
-## Skills & Technologies
-### Programming Languages
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="width:30px;height:30px" alt="C++"><img/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="width:30px;height:30px" alt="C"><img/>
+🔭 Havacılık sistemi modelleme ve simülasyonu için MATLAB Aerospace Toolbox bilgimi derinleştiriyorum.
 
-### Frontend Development
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width:30px;height:30px" alt="CSS"><img/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width:30px;height:30px" alt="HTML"><img/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="width:30px;height:30px" alt="Bootstrap"><img/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="width:30px;height:30px" alt="React.js"><img/>
+## Yetenekler & Teknolojiler  
 
-### Database
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" style="width:50px;height:50px" alt="SQL Server"><img/>
+### Programlama Dilleri  
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="width:30px;height:30px" alt="C++"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="width:30px;height:30px" alt="C"/>
 
-### Social
-<a href="https://github.com/busraydinn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" style="width:30px;height:30px" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/busraydinn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" style="width:30px;height:30px" alt="GitHub"></a>
+### Frontend Geliştirme  
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width:30px;height:30px" alt="CSS"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width:30px;height:30px" alt="HTML"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="width:30px;height:30px" alt="Bootstrap"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="width:30px;height:30px" alt="React.js"/>
 
-<h6>©busraydinn 2025</h6>
- 
+### Veritabanı  
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" style="width:60px;height:60px" alt="SQL Server"/> <img src="https://miro.medium.com/1*Jr3NFSKTfQWRUyjblBSKeg.png" style="width:60px;height:60px"  alt="node&express">
 
+
+© busraydinn 2025
