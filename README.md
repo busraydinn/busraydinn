@@ -16,7 +16,7 @@ Bilgisayar Mühendisiyim ve şu anda Yıldız Teknik Üniversitesi'nde Elektroni
 ### Frontend Geliştirme  
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width:30px;height:30px" alt="CSS"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width:30px;height:30px" alt="HTML"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="width:30px;height:30px" alt="Bootstrap"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="width:30px;height:30px" alt="React.js"/>
 
-### Veritabanı  
+### Veritabanı & Backend Geliştirme
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" style="width:60px;height:60px" alt="SQL Server"/> <img src="https://miro.medium.com/1*Jr3NFSKTfQWRUyjblBSKeg.png" style="width:60px;height:60px"  alt="node&express">
 
 
