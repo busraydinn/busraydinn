@@ -49,3 +49,4 @@ I focus on **communication systems for space applications**, especially **LEO sa
 + C++ Development for Simulation          █████████░ 85%
 + MATLAB Aerospace Simulations            ████████░░ 75%
 + Full-Stack Dev (Supporting Tools)       ███████░░░ 70%
+```
