@@ -3,6 +3,8 @@
 <p align="center">
 Exploring the future of <b>satellite communications</b> & <b>space systems</b> 🚀
 </p>
+ 
+
 ## 🎓 EDUCATION 
 🏫 Yildiz Technical University  
 🛰️ Ms Electronics and Communication Engineering 
