@@ -1,23 +1,51 @@
-## Merhaba, Ben Büşra. 👋
+![Hubble Westerlund 2](https://plus.nasa.gov/wp-content/uploads/2023/08/hubble-30th-westerlund2.jpg?w=1024)
 
-Bilgisayar Mühendisiyim ve şu anda Yıldız Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği alanında yüksek lisans yapıyorum. Araştırma alanlarımın odağında haberleşme sistemleri bulunuyor, özellikle Düşük Dünya Yörüngesi (LEO) uydu teknolojilerine ilgi duyuyorum. C++, React ve Nesne Yönelimli Programlama (OOP) gibi ileri teknolojilere tutkuluyum ve bu alanlarda projeler geliştirmekten keyif alıyorum.
+## 🎓 EDUCATION 
+🏫 Yildiz Technical University  
+🛰️ Ms Electronics and Communication Engineering 
+ 
+---
 
-Şu anda uzmanlığımı aktif olarak aşağıdaki alanlarda genişletiyorum:
+## 🧠  Merhaba, Ben Büşra. 👋
+I focus on **communication systems for space applications**, especially **LEO satellite technologies**. I combine aerospace research with software engineering to design, simulate, and analyze next-generation space communication systems.
 
-🔭 Görev planlama ve analiz için Genel Görev Analiz Aracı (GMAT) konusunda yetkinlik kazanıyorum.
+---
 
-🔭 Havacılık sistemi modelleme ve simülasyonu için MATLAB Aerospace Toolbox bilgimi derinleştiriyorum.
+## 🚀 ACTIVE RESEARCH AREAS
 
-## Yetenekler & Teknolojiler  
+- 🛰️ **LEO & MEO Satellite Communication Systems**  
+- 📡 **Signal Processing for Space Communications**  
+- 🧭 **Orbital Mechanics & Mission Planning**  
+- 🚀 **Aerospace Systems Simulation & Analysis**  
 
-### Programlama Dilleri  
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="width:30px;height:30px" alt="C++"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="width:30px;height:30px" alt="C"/>
-
-### Frontend Geliştirme  
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width:30px;height:30px" alt="CSS"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width:30px;height:30px" alt="HTML"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="width:30px;height:30px" alt="Bootstrap"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="width:30px;height:30px" alt="React.js"/>
-
-### Veritabanı & Backend Geliştirme
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" style="width:60px;height:60px" alt="SQL Server"/> <img src="https://miro.medium.com/1*Jr3NFSKTfQWRUyjblBSKeg.png" style="width:60px;height:60px"  alt="node&express">
+---
 
 
-© busraydinn 2025
+
+## 🧰 TECHNICAL TOOLKIT
+
+<p float="left">
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/SQL_Server-%238C1D40?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MATLAB Aerospace Toolbox-%23FF2C00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB Aerospace"/>
+  <img src="https://img.shields.io/badge/GMAT-%23007ACC?style=for-the-badge&logo=gnu&logoColor=white" alt="GMAT"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+---
+
+## 📊 SYSTEM CAPABILITIES
+
+```diff
++ Mission Analysis (LEO Satellites)       ██████████ 90%
++ Communication Systems (Space Comm)      █████████░ 85%
++ C++ Development for Simulation          █████████░ 85%
++ MATLAB Aerospace Simulations            ████████░░ 75%
++ Full-Stack Dev (Supporting Tools)       ███████░░░ 70%
