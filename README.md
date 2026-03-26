@@ -1,12 +1,13 @@
 ![Hubble Westerlund 2](https://plus.nasa.gov/wp-content/uploads/2023/08/hubble-30th-westerlund2.jpg?w=1024)
-
+<h1 align="center">🛰️ Büşra</h1>
+<p align="center">
+Exploring the future of <b>satellite communications</b> & <b>space systems</b> 🚀
+</p>
 ## 🎓 EDUCATION 
 🏫 Yildiz Technical University  
 🛰️ Ms Electronics and Communication Engineering 
  
 ---
-
-## 🧠  Merhaba, Ben Büşra. 👋
 I focus on **communication systems for space applications**, especially **LEO satellite technologies**. I combine aerospace research with software engineering to design, simulate, and analyze next-generation space communication systems.
 
 ---
@@ -19,8 +20,6 @@ I focus on **communication systems for space applications**, especially **LEO sa
 - 🚀 **Aerospace Systems Simulation & Analysis**  
 
 ---
-
-
 
 ## 🧰 TECHNICAL TOOLKIT
 
@@ -37,6 +36,8 @@ I focus on **communication systems for space applications**, especially **LEO sa
   <img src="https://img.shields.io/badge/MATLAB Aerospace Toolbox-%23FF2C00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB Aerospace"/>
   <img src="https://img.shields.io/badge/GMAT-%23007ACC?style=for-the-badge&logo=gnu&logoColor=white" alt="GMAT"/>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TCP-020611?style=for-the-badge&logo=protocols&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UDP-020611?style=for-the-badge&logo=protocols&logoColor=white"/>
 </p>
 
 ---
