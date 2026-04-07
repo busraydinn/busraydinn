@@ -35,9 +35,11 @@ I focus on **communication systems for space applications**, especially **LEO sa
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/SQL_Server-%238C1D40?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+ <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+ <img src="https://img.shields.io/badge/VHDL-%2314354C?style=for-the-badge&logo=VHDL&logoColor=white" alt="VHDL"/>
   <img src="https://img.shields.io/badge/MATLAB Aerospace Toolbox-%23FF2C00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB Aerospace"/>
   <img src="https://img.shields.io/badge/GMAT-%23007ACC?style=for-the-badge&logo=gnu&logoColor=white" alt="GMAT"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
   <img src="https://img.shields.io/badge/TCP-020611?style=for-the-badge&logo=protocols&logoColor=white"/>
   <img src="https://img.shields.io/badge/UDP-020611?style=for-the-badge&logo=protocols&logoColor=white"/>
 </p>
