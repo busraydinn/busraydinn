@@ -1,4 +1,3 @@
-![Hubble Westerlund 2](https://plus.nasa.gov/wp-content/uploads/2023/08/hubble-30th-westerlund2.jpg?w=1024)
 <h1 align="center">🛰️ Büşra</h1>
 <p align="center">
 Exploring the future of <b>satellite communications</b> & <b>space systems</b> 🚀
