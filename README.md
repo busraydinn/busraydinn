@@ -7,7 +7,7 @@
 
 <div>
   <p>
-    LEO uydu haberleşme sistemleri, C++ yazılım geliştirme, modern yazılım tasarım desenleri ve React Native (Expo) ile platformlar arası mobil uygulama geliştirme alanlarında çalışıyorum. Haberleşme ve gömülü sistemlerin kesişim noktasında ölçeklenebilir ve yüksek performanslı yazılımlar geliştirmeye ilgi duyuyorum.
+      Haberleşme ve gömülü sistemlerin kesişim noktasında ölçeklenebilir ve yüksek performanslı yazılımlar geliştirmeye ilgi duyuyorum.
   </p>
 </div>
 
