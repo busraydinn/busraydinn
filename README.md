@@ -5,11 +5,6 @@
 <h3 font="bold">Bilgisayar Mühendisi | Elektronik ve Haberleşme Mühendisliği Yüksek Lisans Öğrencisi</h3>
 </div>
 
-<div>
-  <p>
-      Haberleşme ve gömülü sistemlerin kesişim noktasında ölçeklenebilir ve yüksek performanslı yazılımlar geliştirmeye ilgi duyuyorum.
-  </p>
-</div>
 
 ## 🛠️ Teknik Yetenekler
 
