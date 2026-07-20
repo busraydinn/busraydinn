@@ -5,7 +5,6 @@
 <h3 font="bold">Bilgisayar Mühendisi | Elektronik ve Haberleşme Mühendisliği Yüksek Lisans Öğrencisi</h3>
 </div>
 
-
 ## 🛠️ Teknik Yetenekler
 
 ### 💻 Programlama Dilleri ve Yazılım Geliştirme
