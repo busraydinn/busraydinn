@@ -30,14 +30,10 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-blue?style=for-the-badge)
-![RS232](https://img.shields.io/badge/RS232-lightgrey?style=for-the-badge)
-![RS422](https://img.shields.io/badge/RS422-lightgrey?style=for-the-badge)
-![RS485](https://img.shields.io/badge/RS485-lightgrey?style=for-the-badge)
-
+ 
 ### 📡 Haberleşme ve Uydu Sistemleri
 ![Digital Communications](https://img.shields.io/badge/Sayısal%20Haberleşme-0052CC?style=for-the-badge)
 ![Modulation](https://img.shields.io/badge/Modülasyon-Teknikleri-blue?style=for-the-badge)
-![Huffman Coding](https://img.shields.io/badge/Huffman-Kodlama-success?style=for-the-badge)
 ![Link Budget](https://img.shields.io/badge/Link%20Budget-Uydu%20Haberleşmesi-orange?style=for-the-badge)
 
 ### 🚀 Modelleme ve Simülasyon
