@@ -41,6 +41,4 @@
 ![MATLAB Aerospace Toolbox](https://img.shields.io/badge/MATLAB%20Aerospace%20Toolbox-blue?style=for-the-badge)
 ![GMAT](https://img.shields.io/badge/GMAT%20General%20Mission%20Analysis%20Tool-darkgreen?style=for-the-badge)
 
-## ![HackerRank](https://www.hackerrank.com/profile/busraaydin_1)
-## ![Linkedin](https://www.linkedin.com/in/busraydinn/) 
-## ![Spotify](https://open.spotify.com/playlist/7hJDpmlK53zvmjC8gY35w5?si=7235d10f40914f38)
+
