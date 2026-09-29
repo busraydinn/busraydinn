@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Vivado-00589C?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-e16708?style=for-the-badge&logo=works&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p
+</p>
   
- # İletişim
+# İletişim
 <p align="left">
   <a href="https://www.linkedin.com/in/busraydinn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
