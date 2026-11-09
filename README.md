@@ -22,7 +22,10 @@
 
 ## 🚀 Live Projects
 
-<p>
+<p align="left">
+  <a href="https://busraydin.com/" target="_blank">
+  <img width="430" height="200" alt="portfolio" src="https://github.com/user-attachments/assets/c6bef66a-a32d-44b0-a757-c5dbd03de9d2" />
+  </a>
   <a href="https://linkbudget.web.app/" target="_blank">
   <img width="430" height="200" src="https://github.com/user-attachments/assets/bae4eaf7-654c-492a-87ce-4ac940120d90"   alt="Project 1"/>
   </a>
