@@ -1,9 +1,9 @@
 <!-- Animated Typing Text -->
+ <img width="1584" height="396" alt="Uzayda F1 ve Uydular" src="https://github.com/user-attachments/assets/2ff4ab64-e4ee-4cf4-bf3d-ca916a1dd831" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=043456&width=500&lines=Computer+Engineer" alt="Typing SVG" />
   </a>
-<p>📡 MSc Student in Electronics and Communication Engineering</p>
-
+ 
  ```text
 - 🔌 Embedded Systems
 - 📡 Satellite Communication Systems
