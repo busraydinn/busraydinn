@@ -23,10 +23,10 @@
 ## 🚀 Live Projects
 
 <p>
-  <a href="https://linkbudget.web.app/">
+  <a href="https://linkbudget.web.app/" target="_blank">
   <img width="430" height="200" src="https://github.com/user-attachments/assets/bae4eaf7-654c-492a-87ce-4ac940120d90"   alt="Project 1"/>
   </a>
-  <a href="https://travelapp1.web.app/">
+  <a href="https://travelapp1.web.app/" target="_blank">
     <img width="430" height="200" alt="travel" src="https://github.com/user-attachments/assets/9806e847-a269-4d24-89fb-7380b3de3d31" />
   </a>
 
