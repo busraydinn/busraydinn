@@ -20,18 +20,4 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 </p>
 
-## 🚀 Live Projects
-
-<p align="left">
-  <a href="https://busraydin.com/" target="_blank">
-  <img width="430" height="200" alt="portfolio" src="https://github.com/user-attachments/assets/c6bef66a-a32d-44b0-a757-c5dbd03de9d2" />
-  </a>
-  <a href="https://linkbudget.web.app/" target="_blank">
-  <img width="430" height="200" src="https://github.com/user-attachments/assets/bae4eaf7-654c-492a-87ce-4ac940120d90"   alt="Project 1"/>
-  </a>
-  <a href="https://travelapp1.web.app/" target="_blank">
-    <img width="430" height="200" alt="travel" src="https://github.com/user-attachments/assets/9806e847-a269-4d24-89fb-7380b3de3d31" />
-  </a>
-
-</p>
-
+ 
