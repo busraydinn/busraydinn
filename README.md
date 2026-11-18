@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Satellite_Communication_Systems-2979FF?style=plastic&logoColor=white"/>
 </p>
  
- ### Hi there 👋 I'm a Computer Engineer & M.Sc. Researcher
+ ### Hi there 👋 I'm a Computer Engineer & M.Sc. Student
 
 I hold a **B.Sc. in Computer Engineering** and I am currently pursuing my **M.Sc. in Electronics and Communication Engineering**. My work bridges the gap between low-level **Embedded & Communication Systems** and modern, interactive **Web-Based Ground Control & Telemetry Interfaces**.
  
